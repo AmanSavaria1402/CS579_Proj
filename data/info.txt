@@ -1,0 +1,6 @@
+Data Sources:
+1. L-ridership data: Chicago Data Portal
+    - https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Monthly-Day-Type-A/t2rn-p8d7/about_data
+    - This contains weekday, weekend and monthly totals for all the stations in the L network.
+    - The data here spans from Jan 2001 to September 2025.
+
