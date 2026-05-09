@@ -1,5 +1,8 @@
-This is the repository for the project __Ridership Prediction for Expanding Metro
-Networks__ for CS-579. The repository contains all the code, the data used and the trained models.
+This is the repository for the project __Ridership Prediction for Expanding Metro Networks__ for CS-579. The repository contains all the code, the data used and the trained models.<br>
+
+![Poster](./Poster_page-0001.jpg)
+
+This project implements the paper, [A Graph Deep Learning Model for Station Ridership Prediction in Expanding Metro Networks](https://dl.acm.org/doi/10.1145/3681780.3697247) by Ding et al.
 
 The code is present in 3 different jupyter notebooks. They are as follows:
 - exploration: This notebook contains code for creating the graph for the CTA-L network from the shapefiles available in the chicago data portal.
@@ -9,3 +12,5 @@ The code is present in 3 different jupyter notebooks. They are as follows:
 
 #### Note about the files shapefiles:
 The shapefiles are also provided in the repo, however, the census blocks shapefile, which contains the shapefiles for all the block groups in the state of IL, is too large and may have not been uploaded correctly while pushing due to space constraints. Just to be safe, please download the shapefiles for all the blockgroups in Illinois from [here](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html).
+
+For a more in-depth, step-by-step walkthrough of the project, please refer to the [report](./CS579_Report.pdf).
