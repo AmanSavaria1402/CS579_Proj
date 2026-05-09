@@ -1,8 +1,10 @@
 This is the repository for the project __Ridership Prediction for Expanding Metro Networks__ for CS-579. The repository contains all the code, the data used and the trained models.<br>
 
+This project implements the paper, [A Graph Deep Learning Model for Station Ridership Prediction in Expanding Metro Networks](https://dl.acm.org/doi/10.1145/3681780.3697247) by Ding et al. to perform ridership prediction for the Berwyn and Lawrence stations that were reopened after a closure in the Red line and the newly constructed Damen station in the green line.
+
 ![Poster](./Poster_page-0001.jpg)
 
-This project implements the paper, [A Graph Deep Learning Model for Station Ridership Prediction in Expanding Metro Networks](https://dl.acm.org/doi/10.1145/3681780.3697247) by Ding et al.
+Chicago's L network.
 
 The code is present in 3 different jupyter notebooks. They are as follows:
 - exploration: This notebook contains code for creating the graph for the CTA-L network from the shapefiles available in the chicago data portal.
